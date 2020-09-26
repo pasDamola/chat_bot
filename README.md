@@ -1,3 +1,3 @@
-# Medicare Locator
+# Friendly Chatbot
 
-## A chatbot built with Rasa(an open source framework)  to allow users search for hospitals, nursing homes or home health agencies
+## A chatbot built with Rasa(an open source framework), enabling users to have a friendly conversation

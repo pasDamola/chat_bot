@@ -12,6 +12,8 @@
 - see you around
 - see you later
 
+## intent:inform
+
 ## intent:affirm
 - yes
 - indeed
