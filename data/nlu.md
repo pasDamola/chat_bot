@@ -13,6 +13,19 @@
 - see you later
 
 ## intent:inform
+ - I'm a [Liverpool](club_type) fan
+ - I support [Arsenal](club_type)
+ - [Manchester united](club_type) is my team
+ - [Man U](club_type) is my club
+ - Up [Chelsea](club_type)
+ - [Chelsea](club_type) for the win
+ - [Manchester City](club_type) is definitely going to win
+ - I support [Tottenham](club_type)
+ - [Brighton](club_type) is my team
+ - I'm an [Everton](club_type) fan
+ - [Crystal Palace](club_type) sometimes
+ - [Leicester City](club_type) for the win!!
+
 
 ## intent:affirm
 - yes

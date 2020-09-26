@@ -1,3 +1,3 @@
-# Friendly Chatbot
+# Premier League bot
 
-## A chatbot built with Rasa(an open source framework), enabling users to have a friendly conversation
+## A chatbot built with Rasa(an open source framework), recommending the clubs worth supporting in the English Premier League
